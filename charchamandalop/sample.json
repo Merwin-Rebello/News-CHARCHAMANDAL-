@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC Sport",
+    "title": "How French Open is using AI to protect players online",
+    "description": "As the French Open introduces a new technology to help players filter out social media abuse, BBC Sport looks at the issues tennis players encounter online.",
+    "url": "http://www.bbc.co.uk/sport/tennis/65706479",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/4BEF/production/_129893491_swiatek_gettytwo.jpg",
+    "publishedAt": "2023-05-29T05:52:19.6175725Z",
+    "content": "Social media allows fans to get closer to their favourite players - but it has a downside\r\nThey say don't read the comments - but it is easier said than done.\r\nA lot of tennis players share their liv… [+5284 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Wrestlers' protest: Delhi police file rioting case after detention",
+    "description": "The athletes, including Olympic medallists, were detained by police as they tried to march to parliament.",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-65743355",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14937/production/_129897248_gettyimages-1258251285.jpg",
+    "publishedAt": "2023-05-29T05:22:20.1650905Z",
+    "content": "Police in India's capital Delhi have filed cases including of rioting against the country's top wrestlers after they were detained during a protest.\r\nThe wrestlers, including two Olympic medallists, … [+2929 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sudan Darfur crisis: 'Everything civilians can use has been burned or destroyed'",
+    "description": "Large-scale destruction caused by Arab militias in western Sudan is now visible from space.",
+    "url": "http://www.bbc.co.uk/news/world-africa-65722123",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AFDA/production/_129881054_a373e2af3c63c6b3f602e2161bcb636cae43b72e.jpg",
+    "publishedAt": "2023-05-29T04:07:14.8845922Z",
+    "content": "Entire villages in Sudan's West Darfur region have been burned to the ground by marauding militias, with aid agencies now warning the region is on the brink of a \"humanitarian catastrophe\".\r\nWidespre… [+6050 chars]"
+    }
+]
+}
